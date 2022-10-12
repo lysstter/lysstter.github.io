@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.25d9e143.css",
-    "main.js": "/static/js/main.25f006c6.js",
+    "main.css": "/static/css/main.03ff6bbf.css",
+    "main.js": "/static/js/main.2768bf6f.js",
     "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
-    "static/media/Cat03.jpg": "/static/media/Cat03.ad1af3a9f81b98bb26e0.jpg",
-    "static/media/LilypadLogo.png": "/static/media/LilypadLogo.9164d10b687a092cf76e.png",
+    "static/media/PondBG.png": "/static/media/PondBG.8c5e3ac7a91b873a0bb7.png",
+    "static/media/Lilypad.png": "/static/media/Lilypad.19aebd9836146c4b8a63.png",
     "index.html": "/index.html",
-    "main.25d9e143.css.map": "/static/css/main.25d9e143.css.map",
-    "main.25f006c6.js.map": "/static/js/main.25f006c6.js.map",
+    "main.03ff6bbf.css.map": "/static/css/main.03ff6bbf.css.map",
+    "main.2768bf6f.js.map": "/static/js/main.2768bf6f.js.map",
     "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.25d9e143.css",
-    "static/js/main.25f006c6.js"
+    "static/css/main.03ff6bbf.css",
+    "static/js/main.2768bf6f.js"
   ]
 }
